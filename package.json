@@ -1,0 +1,27 @@
+{
+  "name": "@lauradelduca1990/npxcv",
+  "version": "1.0.0",
+  "description": "Just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laura-DelDuca/npx_CV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laura-DelDuca/npx_CV/issues"
+  },
+  "homepage": "https://github.com/Laura-DelDuca/npx_CV#readme",
+  "bin": {
+    "cv": "./index.js"
+  },
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1"
+  }
+}
